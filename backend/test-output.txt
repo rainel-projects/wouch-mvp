@@ -1,0 +1,37 @@
+﻿≡ƒº¬ Testing onboarding state fetch...
+
+Step 1: Checking user_flows...
+Flow error: {
+  code: 'PGRST205',
+  details: null,
+  hint: null,
+  message: "Could not find the table 'public.user_flows' in the schema cache"
+}
+Flow data: null
+node : Γ¥î Error 
+fetching flow: {
+At line:1 char:1
++ node scripts/test-o
+nboarding.js 2>&1 | 
+Out-File -FilePath 
+test-output ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Γ¥î Err   
+ or fetching flow    
+: {:String) [],     
+RemoteException
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+  code: 'PGRST205',
+  details: null,
+  hint: null,
+  message: "Could 
+not find the table 
+'public.user_flows' 
+in the schema cache"
+}

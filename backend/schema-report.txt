@@ -1,0 +1,57 @@
+🔍 Checking Supabase Tables...
+
+✅ users (0 rows)
+
+✅ questions (0 rows)
+
+✅ question_responses (0 rows)
+
+✅ responses (0 rows)
+
+✅ score_definitions (0 rows)
+
+✅ score_rules (0 rows)
+
+✅ user_scores (0 rows)
+
+✅ scores (0 rows)
+
+✅ user_flags (0 rows)
+
+✅ branching_rules (0 rows)
+
+✅ flows (0 rows)
+
+✅ flow_steps (0 rows)
+
+✅ flow_decision_points (0 rows)
+
+✅ user_flows (0 rows)
+
+✅ user_flow_events (0 rows)
+
+✅ kai_lessons (0 rows)
+
+✅ kai_lesson_content (0 rows)
+
+✅ user_kai_progress (0 rows)
+
+✅ modules (0 rows)
+
+✅ module_content (0 rows)
+
+✅ user_module_progress (0 rows)
+
+✅ insights (0 rows)
+
+✅ insight_conditions (0 rows)
+
+✅ user_insights (0 rows)
+
+
+============================================================
+
+✅ Existing tables: 24
+❌ Missing tables: 0
+
+============================================================

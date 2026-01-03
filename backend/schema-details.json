@@ -1,0 +1,127 @@
+{
+  "existing": [
+    "users",
+    "questions",
+    "question_responses",
+    "responses",
+    "score_definitions",
+    "score_rules",
+    "user_scores",
+    "scores",
+    "user_flags",
+    "branching_rules",
+    "flows",
+    "flow_steps",
+    "flow_decision_points",
+    "user_flows",
+    "user_flow_events",
+    "kai_lessons",
+    "kai_lesson_content",
+    "user_kai_progress",
+    "modules",
+    "module_content",
+    "user_module_progress",
+    "insights",
+    "insight_conditions",
+    "user_insights"
+  ],
+  "missing": [],
+  "details": {
+    "users": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "questions": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "question_responses": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "responses": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "score_definitions": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "score_rules": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_scores": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "scores": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_flags": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "branching_rules": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "flows": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "flow_steps": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "flow_decision_points": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_flows": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_flow_events": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "kai_lessons": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "kai_lesson_content": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_kai_progress": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "modules": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "module_content": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_module_progress": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "insights": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "insight_conditions": {
+      "columns": [],
+      "rowCount": 0
+    },
+    "user_insights": {
+      "columns": [],
+      "rowCount": 0
+    }
+  }
+}

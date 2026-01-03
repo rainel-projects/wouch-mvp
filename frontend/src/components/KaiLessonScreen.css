@@ -1,0 +1,156 @@
+.kai-lesson-screen {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+.kai-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.kai-badge {
+    display: inline-block;
+    padding: 8px 20px;
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    color: white;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.kai-title {
+    font-size: 32px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.kai-goal {
+    font-size: 18px;
+    color: #7f8c8d;
+}
+
+.kai-content {
+    min-height: 300px;
+    margin-bottom: 40px;
+}
+
+.content-slide h2 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.content-body {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #34495e;
+    margin-bottom: 30px;
+}
+
+.exercise-box {
+    background: linear-gradient(135deg, #667eea15, #764ba215);
+    padding: 25px;
+    border-radius: 12px;
+    border-left: 4px solid #667eea;
+    margin-top: 30px;
+}
+
+.exercise-box h3 {
+    color: #667eea;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.exercise-box p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2c3e50;
+}
+
+.action-item {
+    margin-top: 15px;
+    padding: 15px;
+    background: white;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.kai-navigation {
+    border-top: 1px solid #e0e0e0;
+    padding-top: 30px;
+}
+
+.slide-indicators {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.indicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #e0e0e0;
+    transition: all 0.3s ease;
+}
+
+.indicator.active {
+    background: #667eea;
+    width: 30px;
+    border-radius: 6px;
+}
+
+.nav-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+}
+
+.nav-button,
+.complete-button {
+    flex: 1;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.nav-button {
+    background: #f8f9fa;
+    color: #2c3e50;
+}
+
+.nav-button:hover:not(:disabled) {
+    background: #e9ecef;
+}
+
+.nav-button:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.complete-button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.complete-button:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+}
+
+.kai-footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #7f8c8d;
+    font-size: 14px;
+}

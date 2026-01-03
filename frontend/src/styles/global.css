@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+
+/* Use Söhne in production, Inter as dev fallback */
+
+:root {
+  /* Brand colors */
+  --plum: #4E2A5E;
+  --slate: #6B8FAE;
+  --sage: #7FAF9A;
+  --amber: #E4C77A;
+  --terracotta: #D28A6A;
+
+  /* Neutrals */
+  --bg-primary: #F7F5F2;
+  --bg-card: #FFFFFF;
+  --bg-elevated: #FAF9F7;
+
+  --text-primary: #2E2E2E;
+  --text-secondary: #6B6B6B;
+  --text-disabled: #9A9A9A;
+
+  --border: #E6E2DD;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Söhne", "Inter", system-ui, sans-serif;
+}
